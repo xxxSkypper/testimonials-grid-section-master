@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [xxxSkypper](https://github.com/xxxSkypper)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [vercel](https://testimonials-grid-section-master-fvjeve22c-xxxskypper.vercel.app/)
 
 ### Built with
 
